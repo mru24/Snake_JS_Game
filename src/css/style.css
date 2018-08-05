@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html {
+  width: 100vw;
+  height: 100vh;
+}
+
+body {
+  background: #444;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
